@@ -128,5 +128,5 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## Author:
 Shashank Reddy Annarapu - Master’s Student in Computer Science, CSU Fullerton.
-Pavana Manjunath - Master’s Student in Computer Science, CSU Fullerton.
+/n Pavana Manjunath - Master’s Student in Computer Science, CSU Fullerton.
 
