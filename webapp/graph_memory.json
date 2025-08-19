@@ -1,0 +1,122 @@
+[
+  {
+    "subject": "Quantum computing",
+    "relation": "is",
+    "object": "an area of computing"
+  },
+  {
+    "subject": "Quantum computing",
+    "relation": "focused on",
+    "object": "developing computer technology"
+  },
+  {
+    "subject": "The developed computer technology",
+    "relation": "based on",
+    "object": "the principles of quantum theory"
+  },
+  {
+    "subject": "Classical computers",
+    "relation": "use",
+    "object": "bits"
+  },
+  {
+    "subject": "Quantum computers",
+    "relation": "use",
+    "object": "quantum bits or qubits"
+  },
+  {
+    "subject": "Qubits",
+    "relation": "can",
+    "object": "exist in multiple states simultaneously"
+  },
+  {
+    "subject": "Qubits' ability to exist in multiple states simultaneously",
+    "relation": "due to",
+    "object": "a property called superposition"
+  },
+  {
+    "subject": "Quantum computers",
+    "relation": "also use",
+    "object": "entanglement"
+  },
+  {
+    "subject": "Classical computers",
+    "relation": "operate",
+    "object": "using bits"
+  },
+  {
+    "subject": "Bits",
+    "relation": "can be in one of two states",
+    "object": "0 or 1"
+  },
+  {
+    "subject": "They",
+    "relation": "process information",
+    "object": "sequentially"
+  },
+  {
+    "subject": "In contrast",
+    "relation": "leverage",
+    "object": "quantum computers"
+  },
+  {
+    "subject": "Quantum computers",
+    "relation": "achieve parallelism",
+    "object": "using qubits"
+  },
+  {
+    "subject": "Classical computing",
+    "relation": "is effective for",
+    "object": "many traditional tasks"
+  },
+  {
+    "subject": "Classical computing",
+    "relation": "struggles with",
+    "object": "complex simulations"
+  },
+  {
+    "subject": "Quantum computing",
+    "relation": "handles better",
+    "object": "complex simulations"
+  },
+  {
+    "subject": "Isaac Newton",
+    "relation": "formulated",
+    "object": "the laws of motion"
+  },
+  {
+    "subject": "Isaac Newton",
+    "relation": "discovered",
+    "object": "gravity"
+  },
+  {
+    "subject": "Isaac Newton",
+    "relation": "developed",
+    "object": "calculus"
+  },
+  {
+    "subject": "Sir Isaac Newton",
+    "relation": "was born",
+    "object": "4 January O.S. 25 December 1643"
+  },
+  {
+    "subject": "Sir Isaac Newton",
+    "relation": "died",
+    "object": "31 March O.S. 20 March 1727"
+  },
+  {
+    "subject": "Sir Isaac Newton",
+    "relation": "was",
+    "object": "an English polymath"
+  },
+  {
+    "subject": "Sir Isaac Newton",
+    "relation": "was active as",
+    "object": "a mathematician, physicist, astronomer, alchemist, theologian, and author"
+  },
+  {
+    "subject": "Newton",
+    "relation": "was a key figure in",
+    "object": "the Scientific Revolution"
+  }
+]
