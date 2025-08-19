@@ -3,7 +3,7 @@ Learning Graph Assistant
 
 Learning Graph Assistant is an interactive Streamlit-based application that transforms unstructured text into a structured knowledge graph using local LLMs (via Ollama), supports multi-session graph merging, visualizes connections with PyVis, and enables question-answering over the graph using Neo4j.
 
----
+----
 
 ## Features:
 
